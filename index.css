@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tinos&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Catamaran&display=swap');
+body{
+	margin: 0;
+	padding:0;
+	background-color: #D7E1EB;
+}
+li{
+	display: inline;
+	padding: 10px;
+	font-size: 25px;
+	font-family: "dosis";
+	margin:10px;
+	color: #EFF4EF;
+	border-bottom:1px solid #EFF4EF; 
+}
+nav{
+	background-image: url("http://www.mestrainfo.com.br/site/wp-content/uploads/2016/06/fundo-produtos-06.jpg");
+	width: 100%;
+	height: 250px;
+	border-bottom:1px solid #EFF4EF; 
+}
+h1{
+	color: #EFF4EF;
+	font-size: 35px;
+	font-family: "dosis";
+}
+#sec{
+	color: black;
+	font-size:20px;
+	border-radius:4px;
+	border:1px solid white;
+	box-shadow: inset 0 2px 3px 0 rgba(255,255,255,.3), inset 0 -3px 6px 0 rgba(0,0,0,.2), 0 3px 2px 0 rgba(0,0,0,.2);
+	background-image: linear-gradient(to bottom, white, white 130%);
+}
+p{
+	margin: 30px;
+	font-family: "Catamaran";
+}
+footer{
+	font-family: "Tinos";
+	font-size: 15px;
+	text-align: center;
+}
+h4{
+	margin: 20px;
+	font-family: "Catamaran";
+}
+a{
+	color: #EFF4EF;
+	text-decoration: none;
+}
+.lolo:hover{
+	text-decoration: none;
+	color: #EFF4EF;
+	font-size: 30px;
+	text-shadow: 0.1em 0.1em black;
+}
+.lele:hover{
+	text-decoration: none;
+	color: #EFF4EF;
+	font-size: 30px;
+	text-shadow: 0.1em 0.1em black;
+}
+.lili:hover{
+	text-decoration: none;
+	color: #EFF4EF;
+	font-size: 30px;
+	text-shadow: 0.1em 0.1em black;
+}
+.lulu:hover{
+	text-decoration: none;
+	color: #EFF4EF;
+	font-size: 30px;
+	text-shadow: 0.1em 0.1em black;
+}
+.lala:hover{
+	text-decoration: none;
+	color: #EFF4EF;
+	font-size: 30px;
+	text-shadow: 0.1em 0.1em black;
+}
+.tutu:hover{
+	text-decoration: none;
+	color: #EFF4EF;
+	font-size: 40px;
+	text-shadow: 0.1em 0.1em black;
+}
+.fresh:hover{
+	cursor: pointer;
+}
+
+#lua, #sol, #estrela {
+  color: red;
+  display: none;
+}
+
+.content {
+  width: 300px;
+  margin: auto;
+}
+
+form {
+  width: 100%;
+}
+
+form label {
+  display: block;
+  padding: 15px;
+  text-align: center;
+  font-family: Arial, Sans-serif;
+  color: #777;
+  font-size: 17px;
+}
+
+input[type="text"], input[type="email"], textarea {
+  width: 100%;
+  border: 2px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: Arial, Sans-serif;
+  box-sizing: border-box;
+  -webkit-transition: border 1s;
+  transition: border 1s;
+}
+
+input[type="text"]:focus, input[type="email"]:focus, textarea:focus {
+  border: 2px solid #3f1539;
+}
+
+input {
+  font-size: 16px;
+}
+
+input[type="submit"] {
+  border: none;
+  padding: 10px;
+  color: #fff;
+  display: block;
+  margin: auto;
+  width: 100%;
+	background: #5daedd;
+	
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 3px;
+
+}
+
+input[type="submit"]:hover {
+  cursor: pointer;
+  background: #54a1ce;
+}
+textarea {margin-bottom: 20px; resize: vertical;line-height: 1.7;}
+
+address {text-align:center}
+
+
+
+
+
+form #resultado{
+	margin-top: 50px;
+
+	width: 100%;
+
+	border-radius: 10px;
+	background-color: #e1e7ee;
+	border: 1px solid #bdc5ce;
+
+	text-align: center;
+	font-size: 35px
+}
+
